@@ -1,13 +1,12 @@
-# 我的读书笔记库
+# 我的个人空间
 
-欢迎来到我的读书笔记空间，这里记录了我对各类书籍的思考与感悟~
+欢迎来到我的个人空间，这里目前是我的摘抄和文献代码的存放点
 
-## 书籍分类导航
-- [小说文学](Reading-Notes/fiction/) （经典小说、现代文学、科幻故事等）
-- [历史社科](Reading-Notes/history-social/) （历史纪实、社会学、政治学等）
-- [自我成长](Reading-Notes/self-improvement/) （心理学、职场技能、个人管理等）
-- [科普新知](./science/) （自然科学、前沿技术、科普读物等）
+## 个人空间导航
+- [Reading-Notes](Personal Space/Reading-Notes/) （我阅读的一些书籍以及读后感）
+- [Academic-Notes](Personal Space/Reading-Notes/) （我阅读的一些文献以及总结、代码等）
 
-## 笔记说明
-- 每篇笔记包含**书籍简介**、**核心摘录**、**个人感悟**三个板块，便于快速掌握书籍精华。
-- 点击分类导航可查看对应类型的全部笔记，欢迎交流阅读心得~
+
+## 联系方式
+- 网易邮箱：shomiye@163.com
+- 谷歌邮箱：shiqi9717@gmail.com
