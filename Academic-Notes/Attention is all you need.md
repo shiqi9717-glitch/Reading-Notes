@@ -127,3 +127,14 @@ $$
 * **作用：** 它是 **Decoder 连接 Encoder 的桥梁**，让 Decoder 动态关注源序列中相关的信息。
     * **Q** 向量来自 **Decoder**。
     * **K** 和 **V** 向量来自 **Encoder** 的最终输出。
+
+<!-- 引入 MathJax 渲染 LaTeX 公式 -->
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>
+MathJax.config({
+  tex: {
+    inlineMath: [['\\(', '\\)']],  // 行内公式分隔符（\(公式\)）
+    displayMath: [['\\[', '\\]'], ['$$', '$$']]  // 块级公式分隔符（$$公式$$ 或 \[公式\]）
+  }
+});
+</script>
